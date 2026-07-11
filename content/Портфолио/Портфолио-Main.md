@@ -1,8 +1,13 @@
----
-title: Портфолио Unity-разработчика
-tags: [portfolio, unity, webgl, arvr, multiplayer]
----
+# Куценко Дмитрий Александрович
 
+![[Мое фото.png|right|256]]
+**Unity Developer** · 4 года коммерческого опыта  
+Специализация: WebGL‑оптимизация, AR/VR, мультиплеер  
+📞 +7 (978) 907‑95‑56 · 📧 perekrestovdi@yandex.ru  
+[Telegram](https://t.me/Kutsenkodi) · [GitHub](https://github.com/Dimidril) · [GitLab](https://gitlab.com/proctvvv)
+
+
+%%
 ```columns
 id: head
 
@@ -17,6 +22,8 @@ id: head
 ===
 ![[Мое фото.png|right|248]]
 ```
+%%
+
 ---
 ## 🚀 Ключевые проекты
 
