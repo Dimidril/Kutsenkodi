@@ -123,14 +123,14 @@ id: head
 
 - **Web‑AR «Три кота»** (2025–2026) – серия из 2 браузерных мини‑игр для детей с AR‑механиками.  
   *Unity WebGL, кастомный WebAR‑фреймворк.*
-- **Сcылки:**
-	- [Игра "Лопай Шарики"](https://dm.ar-trikota.ru/main.html)
-	- [Игра "Мемори"](https://wl.mix-ar.ru/apps/3kota/memory/demo/main.html)
+	- **Сcылки:**
+		- [Игра "Лопай Шарики"](https://dm.ar-trikota.ru/main.html)
+		- [Игра "Мемори"](https://wl.mix-ar.ru/apps/3kota/memory/demo/main.html)
 
 - **AR‑раскраска по технике безопасности** (2025) – мобильное AR‑приложение, «оживляющее» страницы раскраски.  
   *ARFoundation, переиспользование legacy‑кода – сроки сокращены до 1 недели.*
-- **Ссылки:**
-	- [Приложение](https://mixar.biz/content/raskraska)
+	- **Ссылки:**
+		- [Приложение](https://mixar.biz/content/raskraska)
 
 - **VR‑тренажёр по пожарной эвакуации** (2024) – адаптация VR‑локаций под десктопный режим (управление клавиатурой и мышью).  
   *Unity, SteamVR.*
@@ -140,16 +140,16 @@ id: head
 
 - **Dog's Billionaire** (2023) – блокчейн‑игра.  
   *Интеграция API, UI‑экраны, визуальный фидбэк.*
-- **Ссылки:**
-	- [Информация о игре](https://likevr.ru/veb-razrabotka/proekty/browser-igra/dogs-billionaire/)
+	- **Ссылки:**
+		- [Информация о игре](https://likevr.ru/veb-razrabotka/proekty/browser-igra/dogs-billionaire/)
 
 - **VR‑столы «Табула Сенс»** (2022) – VR‑демонстрация умных столов.  
   *VR‑взаимодействие с продуктами и UI.*
 
 - **«Барсова Гора»** (2022) – приложение‑путеводитель по заповеднику с офлайн‑кэшированием контента.  
   *Unity, REST API, офлайн‑режим.*
-- **Ссылки:**
-	- [App Store (iOS)](https://apps.apple.com/tr/app/%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C/id1598782021)
+	- **Ссылки:**
+		- [App Store (iOS)](https://apps.apple.com/tr/app/%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C/id1598782021)
 
 ---
 
